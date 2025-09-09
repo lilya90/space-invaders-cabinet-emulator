@@ -1,3 +1,1 @@
-Finished disassembler - sep 5. 2025
-\n
-Currently working on CPU
+Finished disassembler - sep 5. 2025, currently working on CPU
